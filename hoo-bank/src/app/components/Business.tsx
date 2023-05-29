@@ -1,11 +1,15 @@
 import React from 'react'
 
-const Business = () => {
-  return (
+const Business = () =>  (
+
+   <section>
     <div>
-      Business
+      
     </div>
+
+
+   </section>
   )
-}
+
 
 export default Business

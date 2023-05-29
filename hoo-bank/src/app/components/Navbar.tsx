@@ -1,4 +1,4 @@
-'use client'
+ 'use client'
 import React, { useState } from 'react';
 import { close, logo, menu } from '../assets'
 import Image from 'next/image'
